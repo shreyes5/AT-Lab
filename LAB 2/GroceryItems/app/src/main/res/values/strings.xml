@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GroceryItems</string>
+
+    <string-array name="array_technology">
+        <item>Apple</item>
+        <item>Oranges</item>
+        <item>Chicken</item>
+        <item>Oil</item>
+        <item>Cheese</item>
+        <item>Nutella</item>
+        <item>Butter</item>
+        <item>Flour</item>
+        <item>Rice</item>
+        <item>Pulses</item>
+        <item>Toothbrush</item>
+        <item>Toothpaste</item>
+        <item>Washing powder</item>
+        <item>Shampoo</item>
+    </string-array>
+</resources>
